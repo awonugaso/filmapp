@@ -26,11 +26,20 @@ As such, the required functionality are as follows:
 - The total number of films purchased by the customers
 
 ## Flowchart 
+![FlowChart](flowchart.png)
 
 
 ## Entity Relationship Diagram (ERD) of your Database
-
+![FlowEntity Relationship Diagram](ERD.png)
 
 ## Screenshots of the website
+![Screenshot](screenshot-homepage.png)
+![Screenshot](screenshot-login.png)
+![Screenshot](screenshot-register.png)
+![Screenshot](screenshot-dashboard.png)
+![Screenshot](screenshot-profile_edit.png)
+![Screenshot](screenshot-purchase.png)
+![Screenshot](screenshot-search.png)
+![Screenshot](screenshot-history.png)
+![Screenshot](screenshot-create_firm.png)
 
-## Code of Conduct
