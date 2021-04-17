@@ -33,14 +33,29 @@ As such, the required functionality are as follows:
 ![FlowEntity Relationship Diagram](ERD.png)
 
 ## Screenshots of the website
+### Homepage 
 ![Screenshot](screenshot-home.png)
+### Login  
 ![Screenshot](screenshot-login.png)
+### Register   
 ![Screenshot](screenshot-register.png)
+
+### Dashboard 
 ![Screenshot](screenshot-dashboard.png)
-![Screenshot](screenshot-create_firm.png)
+
+### Create Film
+![Screenshot](screenshot-create_film.png)
+
+### Profile Edit 
 ![Screenshot](screenshot-profile_edit.png)
+
+### Purchase Film
 ![Screenshot](screenshot-purchase.png)
+
+### Search Film 
 ![Screenshot](screenshot-search.png)
+
+### Purchase History 
 ![Screenshot](screenshot-history.png)
 
 
